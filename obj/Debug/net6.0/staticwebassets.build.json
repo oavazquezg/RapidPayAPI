@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oWwThxmayINx+cJ6OI5iMkpigFJpVz7cEsIM4ZSjGMQ=",
+  "Source": "RapidPayAPI",
+  "BasePath": "_content/RapidPayAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
